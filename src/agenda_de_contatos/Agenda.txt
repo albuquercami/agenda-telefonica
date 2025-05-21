@@ -1,0 +1,76 @@
+Menu da agenda de Contatos:
+[1] Adicionar contato
+[2] Listar contatos
+[3] Buscar contato
+[4] Remover contato
+[5] Sair
+1
+Digite o nome do contato:
+Lucas
+Digite o telefone do contato:
+00 0000-0000
+Digite o e-mail do contato:
+lucas@exemplo.com
+-------------------------------------
+Contato adicionado com sucesso!
+-------------------------------------
+Menu da agenda de Contatos:
+[1] Adicionar contato
+[2] Listar contatos
+[3] Buscar contato
+[4] Remover contato
+[5] Sair
+1
+Digite o nome do contato:
+Maria
+Digite o telefone do contato:
+00 0000-0001
+Digite o e-mail do contato:
+maria@exemplo.com
+-------------------------------------
+Contato adicionado com sucesso!
+-------------------------------------
+Menu da agenda de Contatos:
+[1] Adicionar contato
+[2] Listar contatos
+[3] Buscar contato
+[4] Remover contato
+[5] Sair
+2
+-------------------------------------
+Contato: 1
+Nome: Lucas
+Telefone: 00 0000-0000
+E-mail: lucas@exemplo.com
+-------------------------------------
+Contato: 2
+Nome: Maria
+Telefone: 00 0000-0001
+E-mail: maria@exemplo.com
+-------------------------------------
+Menu da agenda de Contatos:
+[1] Adicionar contato
+[2] Listar contatos
+[3] Buscar contato
+[4] Remover contato
+[5] Sair
+3
+Digite o nome do contato:
+Lucas
+-------------------------------------
+Contato encontrado:
+Nome: Lucas
+Telefone: 00 0000-0000
+E-mail: lucas@exemplo.com
+-------------------------------------
+Menu da agenda de Contatos:
+[1] Adicionar contato
+[2] Listar contatos
+[3] Buscar contato
+[4] Remover contato
+[5] Sair
+5
+-------------------------------------
+Saindo do programa...
+-------------------------------------
+// Fim do programa
